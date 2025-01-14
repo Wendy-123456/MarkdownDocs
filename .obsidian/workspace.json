@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "e29b954b22d27d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5394608c7468a724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd619d0941b6b70a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "创建Portainer容器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "创建Portainer容器"
+            }
+          },
+          {
+            "id": "0a030fa7db2537e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "创建Portainer容器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "创建Portainer容器"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e724df005845c8c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "68c3e40e9fd931a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f537946cb7ebe2dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e119dfd5c541808",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "170a6b190ba019a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c57c74e91b1677f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3321057bb2b6f097",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "187f0d9712b63c0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "创建Portainer容器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 创建Portainer容器"
+            }
+          },
+          {
+            "id": "321bcca06b669057",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "创建Portainer容器.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 创建Portainer容器"
+            }
+          },
+          {
+            "id": "c135122f5e27baf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5be49f6c79f53936",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "创建Portainer容器.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 创建Portainer容器"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f537946cb7ebe2dc",
+  "lastOpenFiles": [
+    "Obsidian 基础操作.md",
+    "创建Portainer容器.md"
+  ]
+}
