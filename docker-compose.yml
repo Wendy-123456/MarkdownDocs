@@ -1,0 +1,14 @@
+services:
+  couchdb:
+    image: apache/couchdb:latest
+    environment:
+      - COUCHDB_USER=admin
+      - COUCHDB_PASSWORD=password
+    ports:
+      - "5984:5984"
+    volumes:
+      - couchdb_data:/opt/couchdb/data
+    restart: always
+
+volumes:
+  couchdb_data:
